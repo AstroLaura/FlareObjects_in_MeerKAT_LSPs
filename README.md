@@ -32,3 +32,9 @@ The included jupyter notebooks perform the following functions:
 </ul>
 
 All of these scripts require pandas, astropy, and astroquery.
+
+This code has a DOI to help you reference it quickly and easily. If you use the code in this repo, please make sure you cite it correctly!
+
+<a href="https://zenodo.org/badge/latestdoi/336709772"><img src="https://zenodo.org/badge/336709772.svg" alt="DOI"></a>
+
+I am part of the MeerTRAP team, based at the University of Manchester and funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 694745).
