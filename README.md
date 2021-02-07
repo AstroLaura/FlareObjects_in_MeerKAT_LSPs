@@ -9,7 +9,7 @@ The flare type object catalogues we use are:
   <li><a href="https://ui.adsabs.harvard.edu/abs/2009ApJ...696..870D/abstract">Catalina</a>: Transients in the Catalina Surveys Data Release 2</li>
   <li><a href="https://ui.adsabs.harvard.edu/abs/2000A%26AS..143....9W/abstract">simbad_fstars</a>: flare stars (F*) from the SIMBAD catalogue</li>
   <li><a href="https://ui.adsabs.harvard.edu/abs/2000A%26AS..143....9W/abstract">simbad_RSCVns</a>: flare stars (RS*) from the SIMBAD catalogue</li>
-  <li><a href="http://www.montrealwhitedwarfdatabase.org/references.html">White dwarfst</a>: white dwarfs from the Montreal White Dwarf Database</li>
+  <li><a href="http://www.montrealwhitedwarfdatabase.org/references.html">White dwarfs</a>: white dwarfs from the Montreal White Dwarf Database</li>
 </ul>
 
 The MeerKAT LSPs we consider are:
