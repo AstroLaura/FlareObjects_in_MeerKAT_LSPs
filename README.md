@@ -7,8 +7,8 @@ The flare type object catalogues we use are:
   <li><a href="https://jgagneastro.com/list-of-ultracool-dwarfs/">JGagne</a>: ultra-cool dwarfs</li>
   <li><a href="https://ui.adsabs.harvard.edu/abs/2013MNRAS.429.2934K/abstract">sdss_mwds</a>: magnetic white dwarfs from SDSS</li>
   <li><a href="https://ui.adsabs.harvard.edu/abs/2009ApJ...696..870D/abstract">Catalina</a>: Transients in the Catalina Surveys Data Release 2</li>
-  <li>simbad_fstars: flare stars (F*) from the SIMBAD catalogue (2000A&AS..143....9W)</li>
-  <li>simbad_RSCVns: flare stars (RS*) from the SIMBAD catalogue (2000A&AS..143....9W)</li>
+  <li><a href="https://ui.adsabs.harvard.edu/abs/2000A%26AS..143....9W/abstract">simbad_fstars</a>: flare stars (F*) from the SIMBAD catalogue</li>
+  <li><a href="https://ui.adsabs.harvard.edu/abs/2000A%26AS..143....9W/abstract">simbad_RSCVns</a>: flare stars (RS*) from the SIMBAD catalogue</li>
   <li><a href="http://www.montrealwhitedwarfdatabase.org/references.html">White dwarfst</a>: white dwarfs from the Montreal White Dwarf Database</li>
 </ul>
 
